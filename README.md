@@ -1,5 +1,7 @@
 # Multiple Owned Vehicles
 
+<img src="media/icon.png" alt="Multiple Owned Vehicles icon" width="128" height="128">
+
 Alt+N buys another selected garage model at its normal native price.
 
 ## Install
