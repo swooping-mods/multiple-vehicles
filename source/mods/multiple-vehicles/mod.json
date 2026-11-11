@@ -1,0 +1,12 @@
+{
+  "id": "multiple-vehicles",
+  "kind": "native",
+  "version": "0.1.0",
+  "display_name": "Multiple Owned Vehicles",
+  "gameplay": true,
+  "feature_dependencies": [],
+  "play_help": [
+    "Alt+N buys another selected garage model at its normal native price.",
+    "Implementation build only; testing deferred."
+  ]
+}
